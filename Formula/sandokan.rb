@@ -1,8 +1,8 @@
 class Sandokan < Formula
   desc "High-performance neural network and deep learning library for C++"
   homepage "https://github.com/Molikano/Sandokan"
-  url "https://github.com/Molikano/Sandokan/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "b76e3352f995764487f4611869be5b7e14143b11667a128c75f356d86c5c47b6"
+  url "https://github.com/Molikano/Sandokan/archive/refs/tags/v0.1.5.tar.gz"
+  sha256 "dbb2e294cda083313d2e81fcc828375d4338e79b451b6e378fc19d21308d79e7"
   license "MIT"
   head "https://github.com/Molikano/Sandokan.git", branch: "main"
 
